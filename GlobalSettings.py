@@ -5,7 +5,7 @@ import seaborn as sns
 
 
 # This makes sure that figures show up in the notebooks
-%matplotlib inline
+#%matplotlib inline
 
 
 # This makes plots look nice
