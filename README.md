@@ -1,4 +1,4 @@
-# ModelingNeuralCircuits
+# Modeling Neural Circuits Made Simple
 
 PDF and accompanying Python code for a preliminary version of the textbook "Modeling Neural Circuits Made Simple" by Robert Rosenbaum.
 
