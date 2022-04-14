@@ -6,7 +6,8 @@ Stay tuned for news about a final copy-edited and published version that will be
 
 The folder CodeFromBook contains Python notebooks that run simulations to generate the figures from the book. Each notebook is referred to and described in the book. 
 
-I will soon replace this sentence with a link to a Google Colab folder containing the Python notebooks.
+The Python notebooks can also be found in the following Drive folder where they can be easily opened and run with Google Colab:
+https://drive.google.com/file/d/1XjQfMpAyep3k3DZxV8vV8D-OiWUUmNLk/view?usp=sharing
 
 Please email any corrections or suggestions to Robert.Rosenbaum@nd.edu and include the term MNCBOOK in the subject line.
 
