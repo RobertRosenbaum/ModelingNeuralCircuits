@@ -8,8 +8,11 @@ The notebooks can also be found in the following Drive folder where they can be 
 https://drive.google.com/drive/folders/1UFS60MnpSUHIGsnGyIbsmtJliZLd3b2c?usp=sharing
 
 The book can be found on the publisher's website, including an open access version:
+
 https://mitpress.mit.edu/9780262548083/modeling-neural-circuits-made-simple-with-python/
+
 and it can be purchased on Amazon:
+
 https://www.amazon.com/dp/0262548089/
 
 Please email any corrections or suggestions to Robert.Rosenbaum@nd.edu and include the term MNCBOOK in the subject line.
