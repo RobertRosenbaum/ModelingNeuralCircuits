@@ -28,3 +28,5 @@ or in bibtex:
   publisher={MIT Press},  
   address={Cambridge, MA}  
 }  
+
+![Cover](https://raw.githubusercontent.com/RobertRosenbaum/ModelingNeuralCircuits/main/ImageFiles/Cover.jpg)
