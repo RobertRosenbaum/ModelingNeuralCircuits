@@ -7,7 +7,7 @@ The notebooks generate figures from the textbook. The book contains references t
 The notebooks can also be found in the following Drive folder where they can be run in Google Colab:  
 https://drive.google.com/drive/folders/1UFS60MnpSUHIGsnGyIbsmtJliZLd3b2c?usp=sharing
 
-The book can be found on the publisher's website where an open access version will be available in April 2024:  
+The book can be found on the publisher's website where an open access is available by clicking on "Open access" and then "Other open access edition":  
 https://mitpress.mit.edu/9780262548083/modeling-neural-circuits-made-simple-with-python/
 
 and it can be purchased on Amazon:  
