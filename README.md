@@ -1,17 +1,17 @@
 # Modeling Neural Circuits Made Simple
 
-Python notebooks for the textbook "Modeling Neural Circuits Made Simple with Python" by Robert Rosenbaum. 
+PDF and Python notebooks for the textbook "Modeling Neural Circuits Made Simple with Python" by Robert Rosenbaum.
 
-The notebooks generate figures from the textbook. The book contains references to each notebook.
+A PDF of the book is included in this repository and a hard copy can be purchased on Amazon:  
+https://www.amazon.com/dp/0262548089/
+
+The notebooks in this repository generate figures from the textbook. The book contains references to each notebook.
 
 The notebooks can also be found in the following Drive folder where they can be run in Google Colab:  
 https://drive.google.com/drive/folders/1UFS60MnpSUHIGsnGyIbsmtJliZLd3b2c?usp=sharing
 
 The book can be found on the publisher's website where an open access is available by clicking on "Open access" and then "Other open access edition":  
 https://mitpress.mit.edu/9780262548083/modeling-neural-circuits-made-simple-with-python/
-
-and it can be purchased on Amazon:  
-https://www.amazon.com/dp/0262548089/
 
 Please email any corrections or suggestions to Robert.Rosenbaum@nd.edu and include the term MNCBOOK in the subject line.
 
